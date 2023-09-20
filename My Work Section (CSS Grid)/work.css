@@ -1,0 +1,19 @@
+/* Styling for the My Work section */
+.my-work {
+    /* Add your section styling here */
+  }
+  
+  /* Grid container */
+  .workGrid {
+    display: grid; /* Convert to grid container */
+    grid-template-columns: repeat(3, 1fr); /* Three equal-width columns */
+    grid-gap: 20px; /* Adjust spacing between grid items */
+    /* Additional styling for the grid container */
+  }
+  
+  /* Individual work items */
+  .work-item {
+    /* Add styles for individual work items */
+    /* You can use grid-area to define named grid areas if needed */
+  }
+  

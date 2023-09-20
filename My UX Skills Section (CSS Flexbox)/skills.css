@@ -1,0 +1,21 @@
+/* Styling for the My UX Skills section */
+.my-ux-skills {
+    /* Add your section styling here */
+  }
+  
+  /* Flex container */
+  .flexContainer {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+    justify-content: space-between; /* Distributes space evenly between items */
+    margin-top: 20px;
+  }
+  
+  /* Individual skill boxes */
+  .skill-box {
+    width: 33%; /* Set each skill box to 33% width */
+    margin: 10px; /* Add margin for spacing */
+    padding: 20px; /* Add padding for content spacing */
+    /* Additional styling for each skill box */
+  }
+  
